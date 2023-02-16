@@ -1,0 +1,14 @@
+In this course, they test code will be written in Ruby. Thanksfully, I don't need to know Ruby to start the course...
+
+To download Ruby, go to: 
+    https://www.ruby-lang.org/es/downloads/
+
+
+Also, the instructor will be using Firefox but I prefer sticking with Chrome... so no need to download it hopefully! 
+Same goes with Sublime Text, the text editor chosen by the instructor. Why using that tool while having Visual Studio Code installed?
+No clue xD
+
+Btw! To know the ruby's version, go with "ruby -v" - right now, I have installed v.3.1.3p185... or something like that.
+    ruby 3.1.3p185 (2022-11-24 revision 1a6b16756e) [x64-mingw-ucrt]
+
+
