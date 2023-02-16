@@ -1,6 +1,4 @@
 # Learning_Selenium
+3rd LinkedIn course I completed while working at Unit4 (from the ones I was more interested in)
 
-
-2nd LinkedIn course I completed while working at Unit4 (from the ones I was more interested in)
-
-https://www.linkedin.com/learning/learning-selenium/welcome?autoplay=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A1~AAAAAAbc-eI%3D584627&u=115145186
+https://www.linkedin.com/learning-login/share?account=115145186&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-selenium%3Ftrk%3Dshare_ent_url%26shareId%3DUn%252FmMwoHSeOKnG%252BkBUhzSw%253D%253D
