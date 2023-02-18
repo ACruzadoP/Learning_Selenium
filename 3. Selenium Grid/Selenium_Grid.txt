@@ -1,0 +1,14 @@
+
+SUPPORTED
+-----------
+- Languages: C, Java, Ruby, Python and JavaScript
+- Platforms: macOS, Windows and Linux
+- Browsers: Chrome, Firefox, IE and Safari (dunno about Edge)
+
+
+#####################################################################
+
+got that info from the video of Selenium WebDriver.
+
+I wonder if these are the only supported "L/P/B" for Selenium Grid as well.
+    to be continued...

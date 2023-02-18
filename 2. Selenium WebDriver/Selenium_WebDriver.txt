@@ -1,0 +1,110 @@
+
+SUPPORTED
+-----------
+- Languages: C, Java, Ruby, Python and JavaScript
+- Platforms: macOS, Windows and Linux
+- Browsers: Chrome, Firefox, IE and Safari (dunno about Edge)
+
+
+#####################################################################
+
+Here we go... it's Saturday btw... not working at Unit4 but I somehow got addicted to this Selenium thing xD
+
+UPDATE: actually Sunday, yesterday was not the day I was going to hit the Play button. But got everything prepared!
+
+WELL SO, in the last course I went for Selenium with python, this time it's time for Ruby I guess, as I was requested to install it...
+but these are the supported languages: C, Java, Ruby, Python and JavaScript. 
+
+Ass (xD) well as the Platforms and Browsers:
+
+    - Platforms: macOS, Windows and Linux
+    - Browsers: Chrome, Firefox, IE and Safari (dunno about Edge)
+
+        *Important thing: For each one of them, I need a different driver... 
+            In the case of Ruby+Firefox, I need:
+                Selenium WebDriver
+                Geckodriver
+            Wonder if I could make a matrix with all the combinations, to know what requirements to be considered all the time. 
+
+
+        I wonder if the code of each script would be the same... as I could test the same thing on different browsers with the same 
+        script... but it doesn't seem to...
+
+
+
+
+
+
+The instructor is downloading Selenium Language bindings from here:
+https://www.selenium.dev/downloads/
+
+    - the one for Ruby. I wonder as I don't remember doing this with python, 
+    at least not like that. Maybe cuz I used pip? xD
+        Nvm, lets install everything. 
+
+
+
+
+
+
+Now I know what a GEM is!!
+------------------------------
+
+Gems are the files that store ruby software, like packages. It was the 1st time working with Ruby so I didn't know this. 
+    - Gems need to be installed befor using them. 
+    - This is done with "gem install" or "bundler"
+        to use "gem", Ruby needs to be installed. Good that we have covered that xD
+
+
+
+
+Problem 1
+-----------
+After selecting the link to download the Ruby-related version of selenium, from above. 
+I don't get to understand what I'm doing btw, but! Looks like the "gem" commands from the website need to be added to the code.
+
+So the Instructor goes to the Exercise files > Ch01 > 01_02 > start > Gemfile
+    and paste the following (acually, the following is what I copied from the same website - Video outdated)
+        gem 'selenium-webdriver', '~> 4.8', '>= 4.8.1'
+
+And you would be like... what't the problem? 
+    1. What I paste doesn't match at all with what the Instructor pasted (to be reviewed in the 'Ch01 > 01_02 > end' folder)
+    2. Why cannot I create my own Gemfile?
+    3. The Instructor is using "bundler" to install the gems... but I don't want to install the freaking bundler. 
+
+        Just in case I cannot do it on my way, this is how it's done, from the folder where the bundle is located:
+            gem install bundler
+            bundle install
+
+
+END OF Problem
+-------------------
+
+
+
+The next thing the Instructor does (from now on "I"), is installing Geckodriver
+    https://github.com/mozilla/geckodriver/releases
+    Selecting the latest one > Assets > Selecting the one for your OS
+    She saved the file and didn't even finish with installing the freaking thing. 
+
+
+    So unnecessarily complex!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
