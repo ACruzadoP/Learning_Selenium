@@ -12,3 +12,16 @@ got that info from the video of Selenium WebDriver.
 
 I wonder if these are the only supported "L/P/B" for Selenium Grid as well.
     to be continued...
+
+
+
+-------------------
+
+Back to this notepad! Time to get some answers...
+
+The Grid is a proxy server that runs all the Selenium tests remotely. There are two things that build this Grid:
+    1. The Hub: Central server for the Grid. Where tests are executed. Only 1 per grid instance. 1 Platform (Windows, Mac or Linux)
+    2. The nodes: Registered to the hub. Where tests are run. They can be in any platform and don't need to be the same as the one in the Hub. There are usually many per grid instance.
+
+
+I didn't write down anything else as I don't see myself using this any time soon - and the questions I had... were left unanswered T.T 

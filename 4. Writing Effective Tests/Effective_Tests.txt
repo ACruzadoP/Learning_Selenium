@@ -1,0 +1,19 @@
+The 1st two advices for writting effective tests were too dump to be explained:
+- Use Variables
+- Use Functions
+
+
+Now let's go with the one that I have considered as the most interesting so far:
+- Page Object Pattern
+    - A class for each page in the app
+    - Each page has
+        *Selectors
+        *Methods
+
+
+    In the example, the app has two pages: SignupPage and the UsersPage, so the I created the following files:
+    - signup_page.rb
+    - users_page_rb
+
+
+        Free free to check out those files. To do so, go to the "Exercise Files > Ch03 > 03_03 > end"

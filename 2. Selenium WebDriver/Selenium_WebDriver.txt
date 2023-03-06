@@ -94,18 +94,27 @@ The next thing the Instructor does (from now on "I"), is installing Geckodriver
 
 UPDATE! (03/02/2023 - March the 3rd)
 ----------------------
-I have decided to abandom this course for the following reasons:
-- I don't want to learn Ruby right now
-- I don't want to see myself having to install so many things for completing the exercises
-- The instructor has the excercises already completed when going through them
+I have decided to abandom this course, for the time being, for the following reasons:
 - I did already a course of Selenium with Python
 - I want to priorize the course of BDD, where Unit tests are explained, as they are way more important when it comes to becoming Automation tester
-- Why learning two ways of creating Selenium scripts when the company (Unit4) has already told me that I'm not allowed to create them to make my life easier... they seem to enjoy
-    taking functional testing as a way of torturing the testers with extremely repetitive tasks so that they leave voluntarily, instead of firing them as it would be much more expensive. 
-    Something called Tax Engineering that many companies practice but none will ever recognize xD
 
 
 
+UPDATE! (06/03/2022 - March the 6th)
+----------------------------------------
+Back to the course, after having completed the BDD course. I will not complete the excercises but I will write down everything that I consider interesting. 
+
+
+
+IMPORTANT!
+---------------
+
+- Drivers per browser:
+    
+    *geckodriver - to communicate with gecko browsers like Firefox
+    *ChromeDriver
+    *EdgeDriver
+    *SafariDriver
 
 
 
